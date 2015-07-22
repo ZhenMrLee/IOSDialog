@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="cities">
+        <item>南京</item>
+        <item>上海</item>
+        <item>北京</item>
+        <item>深圳</item>
+        <item>无锡</item>
+    </string-array>
+
+
+    <string-array name="times">
+        <item>15分钟内到达</item>
+        <item>30分钟内到达</item>
+        <item>45分钟内到达</item>
+        <item>1小时内到达</item>
+        <item>1小时15分钟内到达</item>
+        <item>1小时30分钟内到达</item>
+        <item>1小时45分钟内到达</item>
+        <item>2小时内到达</item>
+        <item>2小时15分钟内到达</item>
+        <item>2小时30分钟内到达</item>
+        <item>2小时45分钟内到达</item>
+        <item>3小时内到达</item>
+    </string-array>
+
+</resources>
